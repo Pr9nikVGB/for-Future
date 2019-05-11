@@ -3,7 +3,7 @@
 
 Использовал: PHPStrom, SCSS, jQuery, PS
 
-SCSS компилил с помощью PHPStorm 
+SCSS компилировал с помощью PHPStorm 
 
 С помощью него же работал с Git
 
