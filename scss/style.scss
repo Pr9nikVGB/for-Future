@@ -97,7 +97,7 @@ input, textarea {
 				top: 430px;
 	    		left: -45px;
 				display: inline-block;
-				background-image: url('/images/circle_normal.png');
+				background-image: url('../images/circle_normal.png');
 				@include backImage(center, cover, no-repeat);
 				width: 117px;
 				height: 95px;
@@ -108,7 +108,7 @@ input, textarea {
 				top: 510px;
 	    		right: -30px;
 				display: inline-block;
-				background-image: url('/images/square.png');
+				background-image: url('../images/square.png');
 				@include backImage(center, cover, no-repeat);
 				width: 58px;
 				height: 44px;
@@ -123,7 +123,7 @@ input, textarea {
 				left: -37px;
     			opacity: 0.5;
 				display: inline-block;
-				background-image: url(/images/triangle_normal.png);
+				background-image: url(../images/triangle_normal.png);
 				background-position: center;
 				background-repeat: no-repeat;
 				width: 60px;
@@ -136,7 +136,7 @@ input, textarea {
 				bottom: 215px;
     			right: -40px;
 				display: inline-block;
-				background-image: url('/images/square_big.png');
+				background-image: url('../images/square_big.png');
 				@include backImage(center, cover, no-repeat);
 				width: 88px;
 				height: 88px;
@@ -151,7 +151,7 @@ input, textarea {
 				top: 480px;
     			right: -26px;
 				display: inline-block;
-				background-image: url('/images/square.png');
+				background-image: url('../images/square.png');
 				@include backImage(center, cover, no-repeat);
 				width: 58px;
 				height: 44px;
@@ -163,7 +163,7 @@ input, textarea {
 				bottom: 400px;
 				left: -37px;
 				display: inline-block;
-				background-image: url(/images/triangle_normal.png);
+				background-image: url(../images/triangle_normal.png);
 				background-position: center;
 				background-repeat: no-repeat;
 				width: 60px;
@@ -179,7 +179,7 @@ input, textarea {
 	max-width: 1600px;
 	height: 1050px;
 	margin: 0 auto;
-	background-image: url('/images/mainPhoto.jpg');
+	background-image: url('../images/mainPhoto.jpg');
 	@include backImage(center,cover,no-repeat);
 	z-index: 1;
 	&__body {
@@ -199,7 +199,7 @@ input, textarea {
     &__menu {
     	min-width: 370px;
     	background-color: #fff;
-    	font-size: 18px;
+    	font-size: 1.125rem;
     	padding: 0 30px;
     	-webkit-box-shadow: 0px 11px 56px -13px rgba(178,157,241,1);
 		-moz-box-shadow: 0px 11px 56px -13px rgba(178,157,241,1);
@@ -221,7 +221,7 @@ input, textarea {
 	justify-content: space-between;
 	align-items: center;
 	position: relative;
-	font-size: 15px;
+	font-size: 0.9375rem;
 	height: 65px;
 	border-radius: 33px;
 	&__item {
@@ -229,19 +229,19 @@ input, textarea {
 		padding-top: 5px;
 		padding-bottom: 5px;
 		&--search {
-			background-image: url('/images/lens.png');
+			background-image: url('../images/lens.png');
 			@include backImage(center left,'25px',no-repeat);
 			padding-left: 40px;
 		}
 		&--active {
-			font-size: 20px;
+			font-size: 1.25rem;
 			color: #b394fa;
 			text-shadow: 0px 9px 5px rgba(179,148,250,0.85);
 		}
 	}
 	&__chevron {
 		padding-left: 20px;
-		font-size: 17px;
+		font-size: 1.0625rem;
 	}
 }
 .action {
@@ -250,14 +250,14 @@ input, textarea {
 	text-align: left;
 	font-family: 'Roboto';
 	&__headline {
-		font-size: 115px;
+		font-size: 7.1875rem;
 		font-weight: bold;
 		line-height: 1.05;
 		color: #000;
 	}
 	&__text {
 		display: inline-block;
-		font-size:50px;
+		font-size: 3.125rem;
 		font-weight: 500;
 		color: #ffffff;
 		padding-left: 10px;
@@ -279,7 +279,7 @@ input, textarea {
 	cursor: pointer;
 	&--action {
 		background-color: #fff;
-		font-size: 21px;
+		font-size: 1.3125rem;
 		font-weight: 500;
 		color:#000000;
 		margin-top: 85px;
@@ -303,7 +303,7 @@ input, textarea {
 	&__long-arrow {
 		color: #7048E2;
 		padding-left: 17px;
-		font-size: 18px;
+		font-size: 1.125rem;
 	}
 }
 /*-------------------------MAIN BLOCK---------------------------------*/
@@ -344,7 +344,7 @@ input, textarea {
 			top: 120px;
 			left: 265px;
 			display: inline-block;
-			background-image: url('/images/triangle.png');
+			background-image: url('../images/triangle.png');
 			@include backImage(center, cover, no-repeat);
 			width: 75px;
 			height: 56px;
@@ -360,7 +360,7 @@ input, textarea {
 				top: 60px;
 				right: 135px;
 				display: inline-block;
-				background-image: url('/images/line.png');
+				background-image: url('../images/line.png');
 				@include backImage(center, cover, no-repeat);
 				width: 33px;
 				height: 60px;
@@ -371,7 +371,7 @@ input, textarea {
 		}
 	}
 	&__headline {
-		font-size: 50px;
+		font-size: 3.125rem;
 		font-weight: bold;
 		text-align: center;
 		padding: 85px 0;
@@ -397,7 +397,7 @@ input, textarea {
 				bottom: -15px;
     			left: 0px;
 				display: inline-block;
-				background-image: url('/images/circle.png');
+				background-image: url('../images/circle.png');
 				@include backImage(center, auto, no-repeat);
 				width: 55px;
 				height: 33px;
@@ -424,18 +424,18 @@ input, textarea {
 	}
 	&__name {
 		color: #777777;
-		font-size: 18px;
+		font-size: 1.125rem;
 		padding: 25px 0 10px 0;
 	}
 	&__price {
-		font-size: 25px;
+		font-size: 1.5625rem;
 		font-weight: 600;
 		margin-bottom: 70px;
 	}
 	&__button {
 		color: #fff;
 		font-weight: 600;
-		font-size: 20px;
+		font-size: 1.25rem;
 		margin: 0 auto;
 		position: absolute;
 		bottom: -30px;
@@ -473,14 +473,14 @@ input, textarea {
 	&__item {
 		@include backImage(center left, contain, no-repeat);
 		padding-left: 25px;
-		font-size: 14px;
+		font-size: 0.875rem;
 		cursor: pointer;
 		color: #bbbbbb;
 		&--like {
-			background-image: url('/images/like.png');
+			background-image: url('../images/like.png');
 		}
 		&--comment {
-			background-image: url('/images/comment.png');
+			background-image: url('../images/comment.png');
 		}
 	}
 }
@@ -505,24 +505,24 @@ input, textarea {
 			bottom: 0px;
 			left: 74px;
 			display: inline-block;
-			background-image: url('/images/triangle_bold.png');
+			background-image: url('../images/triangle_bold.png');
 			@include backImage(center, cover, no-repeat);
 			width: 83px;
 			height: 66px;
 		}
 	}
 	&__headline {
-		font-size: 50px;
+		font-size: 3.125rem;
 		font-weight: bold;
 	}
 	&__description {
-		font-size: 25px;
+		font-size: 1.5625rem;
 		line-height: 34px;
 		padding: 18px 0 18px 6px;
 	}
 	&__text {
 		color: #888888;
-		font-size: 16px;
+		font-size: 1rem;
 		line-height: 23px;
 		padding: 18px 0 18px 6px;
 	}
@@ -548,7 +548,7 @@ input, textarea {
 		}
 		&--photo {
 			width: 56%;
-			background-image: url('/images/iphone.png');
+			background-image: url('../images/iphone.png');
 			height: 805px;
 			@include backImage(center right, contain, no-repeat);
 		}
@@ -559,7 +559,7 @@ input, textarea {
 				bottom: 300px;
 				right: 0px;
 				display: inline-block;
-				background-image: url('/images/line.png');
+				background-image: url('../images/line.png');
 				@include backImage(center, cover, no-repeat);
 				width: 33px;
 				height: 60px;
@@ -589,12 +589,12 @@ input, textarea {
 		width: 100%;
 	}
 	&__headline {
-		font-size: 50px;
+		font-size: 3.125rem;
 		color: #fff;
 		font-weight: bold;
 		height: 108px;
 		line-height: 108px;
-		background-image: url(/images/get.png);
+		background-image: url(../images/get.png);
 	    background-position: center;
 	    background-repeat: no-repeat;
 	}
@@ -612,7 +612,7 @@ input, textarea {
 	}
 	&__input {
 		border:none;
-		font-size: 20px;
+		font-size: 1.25rem;
 		@include input-placeholder{
 			color: #333333;
 		  	opacity: 1;
@@ -628,7 +628,7 @@ input, textarea {
 			position: absolute;
 			top: 5px;
     		right: 5px;
-    		font-size: 20px;
+    		font-size: 1.25rem;
     		cursor: pointer;
 			background: rgba(140,132,249,1);
 			background: -moz-linear-gradient(45deg, rgba(140,132,249,1) 0%, rgba(140,132,249,1) 31%, rgba(161,101,244,1) 64%, rgba(161,101,244,1) 100%);
@@ -649,7 +649,7 @@ input, textarea {
 	}
 	&__headline {
 		font-family: 'Roboto';
-		font-size: 40px;
+		font-size: 2.5rem;
 		font-weight: 500;
 		padding: 20px 0;
 	}
@@ -671,7 +671,7 @@ input, textarea {
 		height: 53px;
 		border: 2px solid #ecebed;
 		border-radius: 27px;
-		font-size: 23px;
+		font-size: 1.4375rem;
 		line-height: 49px;
 		margin: 0 15px;
 		cursor: pointer;
@@ -695,7 +695,8 @@ input, textarea {
 	padding: 27px 0;
 	text-align: center;
 	color: #777777;
-	font-size: 15px;
+	font-size: 0.9375rem;
 	font-weight: 300;
 	background-color: #f6f5f7;
 }
+@import "media";

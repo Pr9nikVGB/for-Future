@@ -1,139 +1,139 @@
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-SemiBoldItalic.eot");
-  src: local("Open Sans SemiBold Italic"), local("OpenSans-SemiBoldItalic"), url("/fonts/OpenSans/OpenSans-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-SemiBoldItalic.woff") format("woff"), url("/fonts/OpenSans/OpenSans-SemiBoldItalic.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-SemiBoldItalic.eot");
+  src: local("Open Sans SemiBold Italic"), local("OpenSans-SemiBoldItalic"), url("../fonts/OpenSans/OpenSans-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-SemiBoldItalic.woff") format("woff"), url("../fonts/OpenSans/OpenSans-SemiBoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-LightItalic.eot");
-  src: local("Open Sans Light Italic"), local("OpenSans-LightItalic"), url("/fonts/OpenSans/OpenSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-LightItalic.woff") format("woff"), url("/fonts/OpenSans/OpenSans-LightItalic.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-LightItalic.eot");
+  src: local("Open Sans Light Italic"), local("OpenSans-LightItalic"), url("../fonts/OpenSans/OpenSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-LightItalic.woff") format("woff"), url("../fonts/OpenSans/OpenSans-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-Bold.eot");
-  src: local("Open Sans Bold"), local("OpenSans-Bold"), url("/fonts/OpenSans/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-Bold.woff") format("woff"), url("/fonts/OpenSans/OpenSans-Bold.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-Bold.eot");
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url("../fonts/OpenSans/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Bold.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-ExtraBoldItalic.eot");
-  src: local("Open Sans ExtraBold Italic"), local("OpenSans-ExtraBoldItalic"), url("/fonts/OpenSans/OpenSans-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-ExtraBoldItalic.woff") format("woff"), url("/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-ExtraBoldItalic.eot");
+  src: local("Open Sans ExtraBold Italic"), local("OpenSans-ExtraBoldItalic"), url("../fonts/OpenSans/OpenSans-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-ExtraBoldItalic.woff") format("woff"), url("../fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf") format("truetype");
   font-weight: 800;
   font-style: italic; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-Light.eot");
-  src: local("Open Sans Light"), local("OpenSans-Light"), url("/fonts/OpenSans/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-Light.woff") format("woff"), url("/fonts/OpenSans/OpenSans-Light.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-Light.eot");
+  src: local("Open Sans Light"), local("OpenSans-Light"), url("../fonts/OpenSans/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Light.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-Italic.eot");
-  src: local("Open Sans Italic"), local("OpenSans-Italic"), url("/fonts/OpenSans/OpenSans-Italic.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-Italic.woff") format("woff"), url("/fonts/OpenSans/OpenSans-Italic.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-Italic.eot");
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url("../fonts/OpenSans/OpenSans-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Italic.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Italic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-Regular.eot");
-  src: local("Open Sans Regular"), local("OpenSans-Regular"), url("/fonts/OpenSans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-Regular.woff") format("woff"), url("/fonts/OpenSans/OpenSans-Regular.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-Regular.eot");
+  src: local("Open Sans Regular"), local("OpenSans-Regular"), url("../fonts/OpenSans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-SemiBold.eot");
-  src: local("Open Sans SemiBold"), local("OpenSans-SemiBold"), url("/fonts/OpenSans/OpenSans-SemiBold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-SemiBold.woff") format("woff"), url("/fonts/OpenSans/OpenSans-SemiBold.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-SemiBold.eot");
+  src: local("Open Sans SemiBold"), local("OpenSans-SemiBold"), url("../fonts/OpenSans/OpenSans-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-SemiBold.woff") format("woff"), url("../fonts/OpenSans/OpenSans-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-ExtraBold.eot");
-  src: local("Open Sans ExtraBold"), local("OpenSans-ExtraBold"), url("/fonts/OpenSans/OpenSans-ExtraBold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-ExtraBold.woff") format("woff"), url("/fonts/OpenSans/OpenSans-ExtraBold.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-ExtraBold.eot");
+  src: local("Open Sans ExtraBold"), local("OpenSans-ExtraBold"), url("../fonts/OpenSans/OpenSans-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-ExtraBold.woff") format("woff"), url("../fonts/OpenSans/OpenSans-ExtraBold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal; }
 @font-face {
   font-family: 'Open Sans';
-  src: url("/fonts/OpenSans/OpenSans-BoldItalic.eot");
-  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url("/fonts/OpenSans/OpenSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSans/OpenSans-BoldItalic.woff") format("woff"), url("/fonts/OpenSans/OpenSans-BoldItalic.ttf") format("truetype");
+  src: url("../fonts/OpenSans/OpenSans-BoldItalic.eot");
+  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url("../fonts/OpenSans/OpenSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-BoldItalic.woff") format("woff"), url("../fonts/OpenSans/OpenSans-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-MediumItalic.eot");
-  src: local("Roboto Medium Italic"), local("Roboto-MediumItalic"), url("/fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("/fonts/Roboto/Roboto-MediumItalic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-MediumItalic.eot");
+  src: local("Roboto Medium Italic"), local("Roboto-MediumItalic"), url("../fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("../fonts/Roboto/Roboto-MediumItalic.ttf") format("truetype");
   font-weight: 500;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Italic.eot");
-  src: local("Roboto Italic"), local("Roboto-Italic"), url("/fonts/Roboto/Roboto-Italic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Italic.woff") format("woff"), url("/fonts/Roboto/Roboto-Italic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Italic.eot");
+  src: local("Roboto Italic"), local("Roboto-Italic"), url("../fonts/Roboto/Roboto-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Italic.woff") format("woff"), url("../fonts/Roboto/Roboto-Italic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Bold.eot");
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("/fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Bold.eot");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("../fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Bold.woff") format("woff"), url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Regular.eot");
-  src: local("Roboto"), local("Roboto-Regular"), url("/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("/fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Regular.eot");
+  src: local("Roboto"), local("Roboto-Regular"), url("../fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Regular.woff") format("woff"), url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Medium.eot");
-  src: local("Roboto Medium"), local("Roboto-Medium"), url("/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("/fonts/Roboto/Roboto-Medium.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url("../fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Medium.woff") format("woff"), url("../fonts/Roboto/Roboto-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-BoldItalic.eot");
-  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url("/fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("/fonts/Roboto/Roboto-BoldItalic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-BoldItalic.eot");
+  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url("../fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("../fonts/Roboto/Roboto-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-ThinItalic.eot");
-  src: local("Roboto Thin Italic"), local("Roboto-ThinItalic"), url("/fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("/fonts/Roboto/Roboto-ThinItalic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-ThinItalic.eot");
+  src: local("Roboto Thin Italic"), local("Roboto-ThinItalic"), url("../fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("../fonts/Roboto/Roboto-ThinItalic.ttf") format("truetype");
   font-weight: 100;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Black.eot");
-  src: local("Roboto Black"), local("Roboto-Black"), url("/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Black.woff") format("woff"), url("/fonts/Roboto/Roboto-Black.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Black.eot");
+  src: local("Roboto Black"), local("Roboto-Black"), url("../fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Black.woff") format("woff"), url("../fonts/Roboto/Roboto-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Light.eot");
-  src: local("Roboto Light"), local("Roboto-Light"), url("/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/fonts/Roboto/Roboto-Light.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("../fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Light.woff") format("woff"), url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-LightItalic.eot");
-  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url("/fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("/fonts/Roboto/Roboto-LightItalic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-LightItalic.eot");
+  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url("../fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("../fonts/Roboto/Roboto-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-BlackItalic.eot");
-  src: local("Roboto Black Italic"), local("Roboto-BlackItalic"), url("/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/fonts/Roboto/Roboto-BlackItalic.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto Black Italic"), local("Roboto-BlackItalic"), url("../fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("../fonts/Roboto/Roboto-BlackItalic.ttf") format("truetype");
   font-weight: 900;
   font-style: italic; }
 @font-face {
   font-family: 'Roboto';
-  src: url("/fonts/Roboto/Roboto-Thin.eot");
-  src: local("Roboto Thin"), local("Roboto-Thin"), url("/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-opentype"), url("/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/fonts/Roboto/Roboto-Thin.ttf") format("truetype");
+  src: url("../fonts/Roboto/Roboto-Thin.eot");
+  src: local("Roboto Thin"), local("Roboto-Thin"), url("../fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/Roboto-Thin.woff") format("woff"), url("../fonts/Roboto/Roboto-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal; }
 @font-face {
   font-family: 'Montserrat';
-  src: url("/fonts/Montserrat/Montserrat-Light.eot");
-  src: local("Montserrat Light"), local("Montserrat-Light"), url("/fonts/Montserrat/Montserrat-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/Montserrat/Montserrat-Light.woff") format("woff"), url("/fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+  src: url("../fonts/Montserrat/Montserrat-Light.eot");
+  src: local("Montserrat Light"), local("Montserrat-Light"), url("../fonts/Montserrat/Montserrat-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat/Montserrat-Light.woff") format("woff"), url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 *,
@@ -196,7 +196,7 @@ input, textarea {
       top: 430px;
       left: -45px;
       display: inline-block;
-      background-image: url("/images/circle_normal.png");
+      background-image: url("../images/circle_normal.png");
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -208,7 +208,7 @@ input, textarea {
       top: 510px;
       right: -30px;
       display: inline-block;
-      background-image: url("/images/square.png");
+      background-image: url("../images/square.png");
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -222,7 +222,7 @@ input, textarea {
       left: -37px;
       opacity: 0.5;
       display: inline-block;
-      background-image: url(/images/triangle_normal.png);
+      background-image: url(../images/triangle_normal.png);
       background-position: center;
       background-repeat: no-repeat;
       width: 60px;
@@ -234,7 +234,7 @@ input, textarea {
       bottom: 215px;
       right: -40px;
       display: inline-block;
-      background-image: url("/images/square_big.png");
+      background-image: url("../images/square_big.png");
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -246,7 +246,7 @@ input, textarea {
     top: 480px;
     right: -26px;
     display: inline-block;
-    background-image: url("/images/square.png");
+    background-image: url("../images/square.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@ input, textarea {
     bottom: 400px;
     left: -37px;
     display: inline-block;
-    background-image: url(/images/triangle_normal.png);
+    background-image: url(../images/triangle_normal.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 60px;
@@ -271,7 +271,7 @@ input, textarea {
   max-width: 1600px;
   height: 1050px;
   margin: 0 auto;
-  background-image: url("/images/mainPhoto.jpg");
+  background-image: url("../images/mainPhoto.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -291,7 +291,7 @@ input, textarea {
   .header__menu {
     min-width: 370px;
     background-color: #fff;
-    font-size: 18px;
+    font-size: 1.125rem;
     padding: 0 30px;
     -webkit-box-shadow: 0px 11px 56px -13px #b29df1;
     -moz-box-shadow: 0px 11px 56px -13px #b29df1;
@@ -311,7 +311,7 @@ input, textarea {
   justify-content: space-between;
   align-items: center;
   position: relative;
-  font-size: 15px;
+  font-size: 0.9375rem;
   height: 65px;
   border-radius: 33px; }
   .menu__item {
@@ -319,18 +319,18 @@ input, textarea {
     padding-top: 5px;
     padding-bottom: 5px; }
     .menu__item--search {
-      background-image: url("/images/lens.png");
+      background-image: url("../images/lens.png");
       background-position: center left;
       background-size: "25px";
       background-repeat: no-repeat;
       padding-left: 40px; }
     .menu__item--active {
-      font-size: 20px;
+      font-size: 1.25rem;
       color: #b394fa;
       text-shadow: 0px 9px 5px rgba(179, 148, 250, 0.85); }
   .menu__chevron {
     padding-left: 20px;
-    font-size: 17px; }
+    font-size: 1.0625rem; }
 
 .action {
   width: 730px;
@@ -338,13 +338,13 @@ input, textarea {
   text-align: left;
   font-family: 'Roboto'; }
   .action__headline {
-    font-size: 115px;
+    font-size: 7.1875rem;
     font-weight: bold;
     line-height: 1.05;
     color: #000; }
   .action__text {
     display: inline-block;
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: 500;
     color: #ffffff;
     padding-left: 10px;
@@ -364,7 +364,7 @@ input, textarea {
   cursor: pointer; }
   .button--action {
     background-color: #fff;
-    font-size: 21px;
+    font-size: 1.3125rem;
     font-weight: 500;
     color: #000000;
     margin-top: 85px;
@@ -386,7 +386,7 @@ input, textarea {
   .button__long-arrow {
     color: #7048E2;
     padding-left: 17px;
-    font-size: 18px; }
+    font-size: 1.125rem; }
 
 /*-------------------------MAIN BLOCK---------------------------------*/
 /*-------------------------CATALOG---------------------------------*/
@@ -422,7 +422,7 @@ input, textarea {
       top: 120px;
       left: 265px;
       display: inline-block;
-      background-image: url("/images/triangle.png");
+      background-image: url("../images/triangle.png");
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -439,7 +439,7 @@ input, textarea {
         top: 60px;
         right: 135px;
         display: inline-block;
-        background-image: url("/images/line.png");
+        background-image: url("../images/line.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -448,7 +448,7 @@ input, textarea {
     .catalog__container--watches {
       padding: 0 135px 20px 135px; }
   .catalog__headline {
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: bold;
     text-align: center;
     padding: 85px 0;
@@ -476,7 +476,7 @@ input, textarea {
       bottom: -15px;
       left: 0px;
       display: inline-block;
-      background-image: url("/images/circle.png");
+      background-image: url("../images/circle.png");
       background-position: center;
       background-size: auto;
       background-repeat: no-repeat;
@@ -494,16 +494,16 @@ input, textarea {
       height: 100%; }
   .product__name {
     color: #777777;
-    font-size: 18px;
+    font-size: 1.125rem;
     padding: 25px 0 10px 0; }
   .product__price {
-    font-size: 25px;
+    font-size: 1.5625rem;
     font-weight: 600;
     margin-bottom: 70px; }
   .product__button {
     color: #fff;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 1.25rem;
     margin: 0 auto;
     position: absolute;
     bottom: -30px;
@@ -537,13 +537,13 @@ input, textarea {
     background-size: contain;
     background-repeat: no-repeat;
     padding-left: 25px;
-    font-size: 14px;
+    font-size: 0.875rem;
     cursor: pointer;
     color: #bbbbbb; }
     .product-static__item--like {
-      background-image: url("/images/like.png"); }
+      background-image: url("../images/like.png"); }
     .product-static__item--comment {
-      background-image: url("/images/comment.png"); }
+      background-image: url("../images/comment.png"); }
 
 /*-------------------------CATALOG---------------------------------*/
 /*-------------------------INFORMATION---------------------------------*/
@@ -563,22 +563,22 @@ input, textarea {
     bottom: 0px;
     left: 74px;
     display: inline-block;
-    background-image: url("/images/triangle_bold.png");
+    background-image: url("../images/triangle_bold.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 83px;
     height: 66px; }
   .inform__headline {
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: bold; }
   .inform__description {
-    font-size: 25px;
+    font-size: 1.5625rem;
     line-height: 34px;
     padding: 18px 0 18px 6px; }
   .inform__text {
     color: #888888;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 23px;
     padding: 18px 0 18px 6px; }
   .inform__container {
@@ -599,7 +599,7 @@ input, textarea {
       width: 44%; }
     .inform__container--photo {
       width: 56%;
-      background-image: url("/images/iphone.png");
+      background-image: url("../images/iphone.png");
       height: 805px;
       background-position: center right;
       background-size: contain;
@@ -610,7 +610,7 @@ input, textarea {
       bottom: 300px;
       right: 0px;
       display: inline-block;
-      background-image: url("/images/line.png");
+      background-image: url("../images/line.png");
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -636,12 +636,12 @@ input, textarea {
     max-width: 980px;
     width: 100%; }
   .subscription__headline {
-    font-size: 50px;
+    font-size: 3.125rem;
     color: #fff;
     font-weight: bold;
     height: 108px;
     line-height: 108px;
-    background-image: url(/images/get.png);
+    background-image: url(../images/get.png);
     background-position: center;
     background-repeat: no-repeat; }
   .subscription__form {
@@ -656,7 +656,7 @@ input, textarea {
     display: inline-block; }
   .subscription-form__input {
     border: none;
-    font-size: 20px; }
+    font-size: 1.25rem; }
     .subscription-form__input.placeholder {
       color: #333333;
       opacity: 1; }
@@ -682,7 +682,7 @@ input, textarea {
       position: absolute;
       top: 5px;
       right: 5px;
-      font-size: 20px;
+      font-size: 1.25rem;
       cursor: pointer;
       background: #8c84f9;
       background: -moz-linear-gradient(45deg, #8c84f9 0%, #8c84f9 31%, #a165f4 64%, #a165f4 100%);
@@ -699,7 +699,7 @@ input, textarea {
   margin: 0 auto; }
 .footer__headline {
   font-family: 'Roboto';
-  font-size: 40px;
+  font-size: 2.5rem;
   font-weight: 500;
   padding: 20px 0; }
 .footer__menu {
@@ -717,7 +717,7 @@ input, textarea {
   height: 53px;
   border: 2px solid #ecebed;
   border-radius: 27px;
-  font-size: 23px;
+  font-size: 1.4375rem;
   line-height: 49px;
   margin: 0 15px;
   cursor: pointer; }
@@ -739,8 +739,130 @@ input, textarea {
   padding: 27px 0;
   text-align: center;
   color: #777777;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 300;
   background-color: #f6f5f7; }
+
+@media screen and (max-width: 1450px) {
+  .catalog {
+    max-width: 1170px; } }
+@media screen and (max-width: 1230px) {
+  .header {
+    max-width: 980px; }
+
+  .catalog {
+    max-width: 980px; }
+    .catalog__container--bags {
+      padding: 0 25px 90px 25px; }
+    .catalog__container--watches {
+      padding: 0 25px 90px 25px; }
+
+  .inform {
+    justify-content: space-around;
+    padding: 25px 25px 0 25px; }
+    .inform__container--photo {
+      width: 35%; } }
+@media screen and (max-width: 1024px) {
+  html {
+    font-size: 90%; }
+
+  .header {
+    max-width: 740px; }
+
+  .product__image img {
+    width: 100%; } }
+@media screen and (max-width: 800px) {
+  .header {
+    max-width: 320px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 35px; }
+    .header__menu {
+      width: 100%;
+      min-width: 300px;
+      margin-top: 25px; }
+
+  .main {
+    height: 600px; }
+    .main__body {
+      text-align: center;
+      margin-top: 50px; }
+
+  .action {
+    width: 90%;
+    text-align: center; }
+    .action__headline {
+      font-size: 5rem; }
+    .action__button {
+      margin: 25px auto; }
+
+  .catalog {
+    width: 90%; }
+    .catalog__wrapper {
+      flex-direction: column;
+      align-items: center; }
+    .catalog__item {
+      min-width: 300px; }
+    .catalog__container--bags {
+      padding: 0 25px 25px 25px; }
+
+  .product {
+    margin-bottom: 0; }
+
+  .inform {
+    flex-direction: column; }
+    .inform__container {
+      width: 90%; }
+      .inform__container--photo {
+        background-position: center;
+        height: 440px; }
+
+  .catalog__menu {
+    flex-direction: column;
+    box-shadow: none;
+    font-size: 1.125rem;
+    height: auto; }
+
+  .subscription-form__input {
+    font-size: 1rem; }
+
+  .footer__wrapper {
+    min-width: 320px;
+    width: 90%; } }
+@media screen and (max-width: 500px) {
+  .inform__headline {
+    padding-top: 25px;
+    text-align: center; }
+
+  .inform__description {
+    text-align: center; }
+
+  .catalog {
+    width: 100%; }
+    .catalog__headline {
+      padding: 25px 0; }
+    .catalog__container {
+      width: 100%; }
+      .catalog__container--bags {
+        padding: 0; }
+      .catalog__container--watches {
+        padding: 0 0 50px 0; }
+
+  .subscription-form__input--submit {
+    width: 25%; }
+
+  .footer__menu, .socials {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative; }
+
+  .footer-menu__item {
+    width: 33.3%; }
+
+  .socials__item {
+    margin: 10px 27px; } }
 
 /*# sourceMappingURL=style.css.map */
