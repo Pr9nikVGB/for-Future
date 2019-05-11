@@ -51,6 +51,7 @@ a {
 }
 html {
 	font-size: 100%;
+	overflow-x: hidden;
 }
 body {
 	font-family: $fontFamily;
@@ -419,6 +420,7 @@ input, textarea {
 		height: 260px;
 		img {
 			height: 100%;
+			width: 100%;
 		}
 	}
 	&__name {
@@ -438,7 +440,8 @@ input, textarea {
 		margin: 0 auto;
 		position: absolute;
 		bottom: -30px;
-    	left: 25%;
+    	left: 0;
+    	right: 0;
     	display: none;
 		background: rgba(140,132,249,1);
 		background: -moz-linear-gradient(45deg, rgba(140,132,249,1) 0%, rgba(140,132,249,1) 31%, rgba(161,101,244,1) 64%, rgba(161,101,244,1) 100%);
@@ -697,4 +700,3 @@ input, textarea {
 	font-weight: 300;
 	background-color: #f6f5f7;
 }
-@import 'media';
